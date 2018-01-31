@@ -22,15 +22,18 @@ a:hover {
 h1 {
     font-size: 1.2em;
     font-family:'Courier New', 'Courier New', 'Sans-Serif';
+    text-align: center;
 }
 p {
     font-size: 1em;
     line-height: 1.4em;
     color: #333;
+    text-align: center;
 }
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .9em;
+    text-align: center;
 }
 
 ul.posts {
